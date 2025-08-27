@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'JiHuoNiaoJuXingSDK_Example' do
+  pod 'JiHuoNiaoJuXingSDK', :path => '../'
+
+  target 'JiHuoNiaoJuXingSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

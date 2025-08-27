@@ -1,0 +1,16 @@
+PODS:
+  - JiHuoNiaoJuXingSDK (0.1.0)
+
+DEPENDENCIES:
+  - JiHuoNiaoJuXingSDK (from `../`)
+
+EXTERNAL SOURCES:
+  JiHuoNiaoJuXingSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JiHuoNiaoJuXingSDK: 31701c897825c40a1a23fc153a064a8aaf62ee8c
+
+PODFILE CHECKSUM: f69b74abaf0612ab4d1b79f633aba10b9ce1eb1d
+
+COCOAPODS: 1.16.2
