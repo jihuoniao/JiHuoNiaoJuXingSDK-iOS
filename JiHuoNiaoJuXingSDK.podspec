@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint JiHuoNiaoJuXingSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint podTestOne.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JiHuoNiaoJuXingSDK'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of JiHuoNiaoJuXingSDK.'
+  s.version          = '0.0.1'
+  s.summary          = 'An activation jihuoniaoJuXing AD'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,69 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  is a product provided by Alibaba Group
                        DESC
 
-  s.homepage         = 'https://github.com/gjjggg/JiHuoNiaoJuXingSDK'
+  s.homepage         = 'https://github.com/jihuoniao/JiHuoNiaoJuXingSDK-iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gjjggg' => '1271719322@qq.com' }
-  s.source           = { :git => 'https://github.com/gjjggg/JiHuoNiaoJuXingSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jihuoniao/JiHuoNiaoJuXingSDK-iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
-
-  s.source_files = 'JiHuoNiaoJuXingSDK/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'JiHuoNiaoJuXingSDK' => ['JiHuoNiaoJuXingSDK/Assets/*.png']
-  # }
+  s.ios.deployment_target = '12.0'
+  s.static_framework = true
+  s.requires_arc    = true
+  s.frameworks = [
+  'Accelerate','AddressBook','AdSupport','AppTrackingTransparency','AudioToolbox',
+  'AVFoundation','AVKit','CoreData','CFNetwork','CoreFoundation','CoreGraphics',
+  'CoreMotion','CoreML','CoreHaptics','CoreTelephony','CoreText','CoreLocation',
+  'DeviceCheck','Foundation','ImageIO','JavaScriptCore','MediaPlayer','MessageUI',
+  'MobileCoreServices','QuickLook','SafariServices','Security','StoreKit','UIKit',
+  'WebKit','SystemConfiguration','QuartzCore','SwiftUI','CoreServices','AssetsLibrary',
+  'Photos','CoreMedia','MapKit','CoreImage'
+  ]
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  
+  
+  s.pod_target_xcconfig = {
+     "VALID_ARCHS": "x86_64 armv7 armv7s arm64",
+    'OTHER_LDFLAGS' => '-ObjC -lz -lsqlite3 -lc++'
+   }
+
+
+
+  
+  s.libraries = 'bz2', 'c++', 'iconv', 'resolv.9', 'sqlite3', 'xml2', 'z', 'c++abi'
+  
+  s.resources  = ['SDK/**/*.bundle']
+  
+
+  s.source_files = 'JiHuoNiaoJuXingSDK/Classes/**/*.{h,m}'
+  s.vendored_frameworks = 'SDK/jihuoniao_aggregation_ads.framework'
+
+  
+  s.dependency 'WechatOpenSDK'
+  s.dependency 'TanxSDK'
+  s.dependency 'Ads-CN/BUAdSDK'
+  s.dependency 'Ads-CN/CSJMediation'
+  s.dependency 'Ads-CN/BUAdLive-Framework'
+
+
+  
+  s.dependency 'BaiduMobAdSDK'
+  s.dependency 'GDTMobSDK'
+  s.dependency 'KSAdSDK'
+  s.dependency 'BeiZiSDK-iOS/BeiZiSDK-iOS'
+  s.dependency 'JADYun'
+
+
+
+ 
+
+
+  
 end
+ 
+

@@ -43,23 +43,23 @@
 		314F17FC4C195B37FB74D1A6E44EBC6B /* Pods-JiHuoNiaoJuXingSDK_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JiHuoNiaoJuXingSDK_Example-Info.plist"; sourceTree = "<group>"; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		398EACC38CC714A8E0F433F2A254943F /* JiHuoNiaoJuXingSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JiHuoNiaoJuXingSDK-umbrella.h"; sourceTree = "<group>"; };
-		51DC5D89C16501775BD84BDCC1252FB4 /* JiHuoNiaoJuXingSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = JiHuoNiaoJuXingSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		51DC5D89C16501775BD84BDCC1252FB4 /* JiHuoNiaoJuXingSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = JiHuoNiaoJuXingSDK.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		56B6DDE721E4F970012F35F53D73EB91 /* Pods-JiHuoNiaoJuXingSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-JiHuoNiaoJuXingSDK_Tests.modulemap"; sourceTree = "<group>"; };
 		5CC86A7747C3256E7954CD9A0D176E56 /* Pods-JiHuoNiaoJuXingSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JiHuoNiaoJuXingSDK_Tests-dummy.m"; sourceTree = "<group>"; };
-		5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods-JiHuoNiaoJuXingSDK_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-JiHuoNiaoJuXingSDK_Tests"; path = Pods_JiHuoNiaoJuXingSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods_JiHuoNiaoJuXingSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JiHuoNiaoJuXingSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F89FEF06E9D4EDE74AF53690CC79B0E /* JiHuoNiaoJuXingSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JiHuoNiaoJuXingSDK-dummy.m"; sourceTree = "<group>"; };
 		72824007236C3FA6BF45DD31BFDB119E /* Pods-JiHuoNiaoJuXingSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JiHuoNiaoJuXingSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JiHuoNiaoJuXingSDK; path = JiHuoNiaoJuXingSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		789AAC6A7EF6967C27E3C367C3DDB73D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JiHuoNiaoJuXingSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		789AAC6A7EF6967C27E3C367C3DDB73D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8629AC017E6AFF07EE027532BDE37DFD /* JiHuoNiaoJuXingSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JiHuoNiaoJuXingSDK.release.xcconfig; sourceTree = "<group>"; };
 		8635CF369FD8A3CCFA9FC8A007981E82 /* Pods-JiHuoNiaoJuXingSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JiHuoNiaoJuXingSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		87E1586FC2B9A3427B01F9BAD9688F3E /* JiHuoNiaoJuXingSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JiHuoNiaoJuXingSDK-prefix.pch"; sourceTree = "<group>"; };
 		883E094E24CDF53CB60E5FBE4B72FFB3 /* Pods-JiHuoNiaoJuXingSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JiHuoNiaoJuXingSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8923A4B1B5672563B1D3B766B2D8A976 /* Pods-JiHuoNiaoJuXingSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JiHuoNiaoJuXingSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		892DD2B8F0AF7E1F29325A1439833405 /* JiHuoNiaoJuXingSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JiHuoNiaoJuXingSDK-Info.plist"; sourceTree = "<group>"; };
-		9730E342871EA7E3F5CC3BD71145BBEC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods-JiHuoNiaoJuXingSDK_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-JiHuoNiaoJuXingSDK_Example"; path = Pods_JiHuoNiaoJuXingSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9730E342871EA7E3F5CC3BD71145BBEC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods_JiHuoNiaoJuXingSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JiHuoNiaoJuXingSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A30A1A71ED7CFE45C5C2901444A5CB3F /* Pods-JiHuoNiaoJuXingSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JiHuoNiaoJuXingSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		A8ECDF0AB74BC0E1389FBDE84EDA654C /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = JiHuoNiaoJuXingSDK/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		B27BB5C6523FDC98EC8E5A5B2EA743CA /* Pods-JiHuoNiaoJuXingSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JiHuoNiaoJuXingSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -154,9 +154,9 @@
 		96D0E0C04EC40C35EC52E5B0A562F1EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK */,
-				9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods-JiHuoNiaoJuXingSDK_Example */,
-				5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods-JiHuoNiaoJuXingSDK_Tests */,
+				73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK.framework */,
+				9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods_JiHuoNiaoJuXingSDK_Example.framework */,
+				5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods_JiHuoNiaoJuXingSDK_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-JiHuoNiaoJuXingSDK_Tests";
 			productName = Pods_JiHuoNiaoJuXingSDK_Tests;
-			productReference = 5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods-JiHuoNiaoJuXingSDK_Tests */;
+			productReference = 5FB73E8F6D5C5ECD11FEE3C03A2F0138 /* Pods_JiHuoNiaoJuXingSDK_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		8C38FAA7FC91B7106FB32DB9E0F53F92 /* JiHuoNiaoJuXingSDK */ = {
@@ -287,7 +287,7 @@
 			);
 			name = JiHuoNiaoJuXingSDK;
 			productName = JiHuoNiaoJuXingSDK;
-			productReference = 73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK */;
+			productReference = 73E27129B257BE26717D48404A412188 /* JiHuoNiaoJuXingSDK.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DEB01738E483874F3A1C2B3CECEBF8E5 /* Pods-JiHuoNiaoJuXingSDK_Example */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-JiHuoNiaoJuXingSDK_Example";
 			productName = Pods_JiHuoNiaoJuXingSDK_Example;
-			productReference = 9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods-JiHuoNiaoJuXingSDK_Example */;
+			productReference = 9C41EA0CDDE8DF64C850B20FC244BF04 /* Pods_JiHuoNiaoJuXingSDK_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -327,8 +327,6 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			minimizedProjectReferenceProxies = 0;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 96D0E0C04EC40C35EC52E5B0A562F1EA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -569,8 +567,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

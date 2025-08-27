@@ -1,0 +1,6 @@
+framework module jihuoniao_aggregation_ads {
+  umbrella header "jihuoniao_aggregation_ads.h"
+  export *
+
+  module * { export * }
+}
