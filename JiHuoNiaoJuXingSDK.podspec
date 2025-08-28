@@ -32,15 +32,23 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.static_framework = true
   s.requires_arc    = true
+
   s.frameworks = [
-  'Accelerate','AddressBook','AdSupport','AppTrackingTransparency','AudioToolbox',
-  'AVFoundation','AVKit','CoreData','CFNetwork','CoreFoundation','CoreGraphics',
-  'CoreMotion','CoreML','CoreHaptics','CoreTelephony','CoreText','CoreLocation',
-  'DeviceCheck','Foundation','ImageIO','JavaScriptCore','MediaPlayer','MessageUI',
-  'MobileCoreServices','QuickLook','SafariServices','Security','StoreKit','UIKit',
-  'WebKit','SystemConfiguration','QuartzCore','SwiftUI','CoreServices','AssetsLibrary',
-  'Photos','CoreMedia','MapKit','CoreImage'
-  ]
+  'Accelerate','AdSupport','AudioToolbox','AVFoundation','AVKit',
+  'CoreData','CFNetwork','CoreFoundation','CoreGraphics','CoreMotion',
+  'CoreTelephony','CoreText','CoreLocation','Foundation','ImageIO',
+  'JavaScriptCore','MediaPlayer','MessageUI','QuickLook','SafariServices',
+  'Security','StoreKit','UIKit','WebKit','SystemConfiguration',
+  'QuartzCore','CoreServices','Photos','CoreMedia','MapKit','CoreImage','MobileCoreServices','AssetsLibrary'
+]
+s.weak_frameworks = [
+  'AddressBook',     
+  'SwiftUI',           
+  'CoreHaptics',       
+  'AppTrackingTransparency',
+  'DeviceCheck',       
+  'CoreML'             
+]
 
   
   
