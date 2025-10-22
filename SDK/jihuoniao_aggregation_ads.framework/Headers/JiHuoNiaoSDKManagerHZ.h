@@ -9,6 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+
 @interface JiHuoNiaoSDKManagerHZ : NSObject
 
 /**
@@ -17,8 +18,9 @@ NS_ASSUME_NONNULL_BEGIN
  isLocation：是否允许获取位置信息 允许能有效提高广告收益
 */
 + (void)startWithAppid:(NSString *)appID AppKey:(NSString *)appkey isGetLocation:(BOOL)isLocation;
+
 /**
- 1.0.2
+ 1.0.5-10.21
  SDK版本号
 */
 + (NSString *)SDKVersion;

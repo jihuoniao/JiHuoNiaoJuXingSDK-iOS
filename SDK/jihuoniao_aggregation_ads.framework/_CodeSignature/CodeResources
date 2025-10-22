@@ -6,7 +6,7 @@
 	<dict>
 		<key>CSJAdSDK.bundle/Info.plist</key>
 		<data>
-		O5hxFRpxaiug98Rz9E8W3q3wktc=
+		7NHO1e5LAPSuXw7G6T0CRf788EA=
 		</data>
 		<key>CSJAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -389,7 +389,7 @@
 		</data>
 		<key>CSJAdSDK.bundle/version.txt</key>
 		<data>
-		pOS3nwpwLGzdF+zGptKIySfGNX8=
+		AUl2jKVRItu6Sg4PU+KwWmGkb+A=
 		</data>
 		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
 		<dict>
@@ -439,7 +439,7 @@
 		</data>
 		<key>Headers/JiHuoNiaoSDKManagerHZ.h</key>
 		<data>
-		hIsTU5AbJIJmzW8LmPgDFvE+kRQ=
+		qZRgZqC8o5oi/En2lBmRkYp97f8=
 		</data>
 		<key>Headers/JiHuoNiaoServerBiddingResultModel.h</key>
 		<data>
@@ -540,10 +540,6 @@
 		<key>TanxID.bundle/white_close_icon.png</key>
 		<data>
 		ioQ0vJsmaSEPopaBoJuoxHmbZKw=
-		</data>
-		<key>VeLive.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		f7tABLrB9oK2NQF1kNJvG+RR3gc=
 		</data>
 		<key>baidumobadsdk.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -733,6 +729,14 @@
 		<data>
 		9tR5BMW7vqKmbwGiWaJkGqegj64=
 		</data>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_black.png</key>
+		<data>
+		dXqDD0aUS1zFRbsYk4gIZlnLwQw=
+		</data>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_white.png</key>
+		<data>
+		IzWqsZy1GAVVRXh7WSpMICHVCVA=
+		</data>
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_white.png</key>
 		<data>
 		TACfl1Er/TAUGdjW+HCqwqsPs4Q=
@@ -801,9 +805,49 @@
 		<data>
 		9aqsOSFJfShz0gn7OPM1JO6w32M=
 		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_back.png</key>
+		<data>
+		ueT8UtauSs0ECEX/fU4I3efNGME=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_front.png</key>
+		<data>
+		ljwIxO0XB+Je6UZFK5E301FFoXk=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_inner.png</key>
+		<data>
+		ZCiU8J/Tdx+Z+rH4U8+OWi2CXkc=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_max.png</key>
+		<data>
+		oDd5DxsC0giGBFy8/WTIy1Mr2zU=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_yuan.png</key>
+		<data>
+		dxQUCDnjRxqATL928CRz9ltvdqo=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
+		<data>
+		ui3YAOq/Tri+TP8tilCxRMRDWTE=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_maximum.png</key>
+		<data>
+		BRlArNbYx7wkgcC+EXvqq33od9k=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_price.png</key>
+		<data>
+		eUZUBDJp9Ejrr9nC+xTGWINWEww=
+		</data>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<data>
 		aNFBuS7V4C9TpmN8cZxhvtWE8v8=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
+		<data>
+		25CzVZsl9gHDKiZcKnx7X3EjRUU=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_market_main.png</key>
+		<data>
+		Yj0WV2L1Vjcg7n9fksSygGjCPmg=
 		</data>
 		<key>baidumobadsdk.bundle/bd_splash_shake.png</key>
 		<data>
@@ -1073,10 +1117,6 @@
 		<data>
 		ECNl1wuvN9wuG0LIldqC3kN8Rpk=
 		</data>
-		<key>ttplayer.metallib</key>
-		<data>
-		ADLHpACALRgTq1buVTKjHWrPsXk=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -1084,11 +1124,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O5hxFRpxaiug98Rz9E8W3q3wktc=
+			7NHO1e5LAPSuXw7G6T0CRf788EA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tH0QvV1mYHnq5CNCneb8/+296kyCuuQN3a9c72AkaGw=
+			tV+MQmxrdFBZU6+O0MevlsuPEUnYQ8eGbdHdGloGccE=
 			</data>
 		</dict>
 		<key>CSJAdSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -2102,11 +2142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pOS3nwpwLGzdF+zGptKIySfGNX8=
+			AUl2jKVRItu6Sg4PU+KwWmGkb+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			w/viCH/3Ji1g6TZoLMA04EAG138vlts/HgEIWfSWd0E=
+			XHyhxjuq48kUyj/cjFIBoUuWlmxvr2xob9hdcuz5zfw=
 			</data>
 		</dict>
 		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
@@ -2216,11 +2256,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hIsTU5AbJIJmzW8LmPgDFvE+kRQ=
+			qZRgZqC8o5oi/En2lBmRkYp97f8=
 			</data>
 			<key>hash2</key>
 			<data>
-			uu8CehwtESJFVLvB08gO5LB4s7kvE3ztYGoK7Ht3RVA=
+			UhiXFqW5a5zyGo7/6t0hLHJZ2V2MFOsSTqGxvO7P7Z8=
 			</data>
 		</dict>
 		<key>Headers/JiHuoNiaoServerBiddingResultModel.h</key>
@@ -2485,17 +2525,6 @@
 			<key>hash2</key>
 			<data>
 			FlgwWeVjNNWTmmHogCh7qaEeo7JCkM+ZoLftRj8EUrY=
-			</data>
-		</dict>
-		<key>VeLive.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f7tABLrB9oK2NQF1kNJvG+RR3gc=
-			</data>
-			<key>hash2</key>
-			<data>
-			Q3VRH0z1+tx2WuPB5YpySUWeeN8GH1ZVQOG2AWloBtU=
 			</data>
 		</dict>
 		<key>baidumobadsdk.bundle/PrivacyInfo.xcprivacy</key>
@@ -3015,6 +3044,28 @@
 			tLSQEkoWVmvbfomNxNHkPlJqsTxBWQ2tq/pcFrTZrWc=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_black.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dXqDD0aUS1zFRbsYk4gIZlnLwQw=
+			</data>
+			<key>hash2</key>
+			<data>
+			B9PVZDFmZygN7+YKrzciXZM8Jv0X18kbNknRfHrQeEc=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_white.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IzWqsZy1GAVVRXh7WSpMICHVCVA=
+			</data>
+			<key>hash2</key>
+			<data>
+			hoCY6fpxW9glf8SmqCoWSx1YMdZtbquzdzeNoKFQRnk=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_white.png</key>
 		<dict>
 			<key>hash</key>
@@ -3202,6 +3253,94 @@
 			1xHnKZpxFlT8cHysPjQrvzCaZxan0BEzCDAY8gqxnsY=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_back.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ueT8UtauSs0ECEX/fU4I3efNGME=
+			</data>
+			<key>hash2</key>
+			<data>
+			CsLZs50uUQqvMixJG1f2eh44O8YwVBob6sb3kvc7q/g=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_front.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ljwIxO0XB+Je6UZFK5E301FFoXk=
+			</data>
+			<key>hash2</key>
+			<data>
+			xawTuF6QFtaI7UtGxmd/HMrKpnth/rv3uSkpUFhOsDc=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_inner.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZCiU8J/Tdx+Z+rH4U8+OWi2CXkc=
+			</data>
+			<key>hash2</key>
+			<data>
+			JSUX9SqqSSpuz3yNH1wpa0B5DHuC5rshV8RwNhmKMiI=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_max.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oDd5DxsC0giGBFy8/WTIy1Mr2zU=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxReIYcnBckkP9/YqSzbovm/gsdxbw+OXHqh0bJRkok=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_yuan.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dxQUCDnjRxqATL928CRz9ltvdqo=
+			</data>
+			<key>hash2</key>
+			<data>
+			PfHjLc5nck6itUzgrsoSsFKXq+UQC/4CpV1dOA3Arms=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ui3YAOq/Tri+TP8tilCxRMRDWTE=
+			</data>
+			<key>hash2</key>
+			<data>
+			0MIC9H/6kc2Akinpe45LYtLx7N9oZYI9bpdHbIIRACo=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_maximum.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BRlArNbYx7wkgcC+EXvqq33od9k=
+			</data>
+			<key>hash2</key>
+			<data>
+			dY0/MtIYGMTjjMaEHTwxi9tI1MwS+n7p/n8P9+zKUU4=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_price.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eUZUBDJp9Ejrr9nC+xTGWINWEww=
+			</data>
+			<key>hash2</key>
+			<data>
+			k/P11gzjvcT64kiHs+fJLgqjUu3gKm6X6CB8BjlnGyc=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<dict>
 			<key>hash</key>
@@ -3211,6 +3350,28 @@
 			<key>hash2</key>
 			<data>
 			z7fZMwqtTOwrxy4J4edyjyI/QOW1b8Pagyfod/Xiw5g=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			25CzVZsl9gHDKiZcKnx7X3EjRUU=
+			</data>
+			<key>hash2</key>
+			<data>
+			HkdGAI9JdhW3A8LBqM4RxwfypviavtxKPbUpUpSWe+E=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_market_main.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yj0WV2L1Vjcg7n9fksSygGjCPmg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oi0/HgmTuB+nx6VGA8Xzt03SQYdfU7yvQs7D+ABfiP8=
 			</data>
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_shake.png</key>
@@ -3948,17 +4109,6 @@
 			<key>hash2</key>
 			<data>
 			ubDeuILqIgwHDKXMSn3V8n6tZV6bltHEqH3xnLNyw5Q=
-			</data>
-		</dict>
-		<key>ttplayer.metallib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ADLHpACALRgTq1buVTKjHWrPsXk=
-			</data>
-			<key>hash2</key>
-			<data>
-			9ICUAM/ryJakLbkqgmVoKepYMUELT73Ynad3RJlhvik=
 			</data>
 		</dict>
 	</dict>
