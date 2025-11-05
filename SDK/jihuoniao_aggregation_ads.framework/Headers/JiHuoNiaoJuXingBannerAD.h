@@ -39,7 +39,7 @@ NS_ASSUME_NONNULL_BEGIN
 @end
 
 @interface JiHuoNiaoJuXingBannerAD : UIView
-
+@property(nonatomic,assign)BOOL isMainOnlyShow;
 @property(nonatomic,weak) id<JiHuoNiaoJuXingBannerADDelegate> delegate;
 /*
  广告位id

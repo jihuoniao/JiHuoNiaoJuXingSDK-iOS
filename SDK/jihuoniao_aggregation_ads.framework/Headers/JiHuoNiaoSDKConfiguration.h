@@ -20,9 +20,9 @@ typedef NS_ENUM(NSInteger, JiHuoNiaoAdSDKAgeGroup) {
 + (instancetype)configuration;
 //自定义idfa
 @property (nonatomic, copy) NSString * jihuoniaoCustomIdfa;
-//是否是个人推荐
+//是否是个人推荐  0-不限制，1-限制
 @property (nonatomic, assign) BOOL jihuoniaoIsPersonalAds;
-//是否允许程序化
+//是否允许程序化  0-不限制，1-限制
 @property (nonatomic, assign) BOOL jihuoniaoIsPprogrammaticAds;
 //年龄
 @property (nonatomic, assign) JiHuoNiaoAdSDKAgeGroup jihuoniaoSDKAgeGroup;

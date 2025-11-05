@@ -411,7 +411,7 @@
 		</dict>
 		<key>Headers/JiHuoNiaoJuXingBannerAD.h</key>
 		<data>
-		2SMqOTqz/dg4hb95R6VoYvvXcE4=
+		YzQBQkgJ38LmmIWU8IvirfXQThU=
 		</data>
 		<key>Headers/JiHuoNiaoJuXingFeedAd.h</key>
 		<data>
@@ -435,11 +435,11 @@
 		</data>
 		<key>Headers/JiHuoNiaoSDKConfiguration.h</key>
 		<data>
-		C0j7H/M3EnuxojqlGgLgP2JhCqA=
+		Qbh+hr1a00D5B90Ls21QUShwFik=
 		</data>
 		<key>Headers/JiHuoNiaoSDKManagerHZ.h</key>
 		<data>
-		ZHUQ8Gvk6QJdNMHpoGEo2EY6PA4=
+		uYryzU4LvlR9obSwRaigi2HG3uU=
 		</data>
 		<key>Headers/JiHuoNiaoServerBiddingResultModel.h</key>
 		<data>
@@ -2179,11 +2179,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2SMqOTqz/dg4hb95R6VoYvvXcE4=
+			YzQBQkgJ38LmmIWU8IvirfXQThU=
 			</data>
 			<key>hash2</key>
 			<data>
-			vNaOVq+bjbDqb73kgiRJvVIA/Vpvtn4rCK1L/RFL8Uo=
+			OgmyHHnVe8ZVadxslBj7FXMpRhIuw0yK5qiCZHXzv0k=
 			</data>
 		</dict>
 		<key>Headers/JiHuoNiaoJuXingFeedAd.h</key>
@@ -2245,22 +2245,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C0j7H/M3EnuxojqlGgLgP2JhCqA=
+			Qbh+hr1a00D5B90Ls21QUShwFik=
 			</data>
 			<key>hash2</key>
 			<data>
-			7HcVLBaF3Ox42GCP4/qslb01IaEmZJu5ENY2oONqxhQ=
+			UllSqvSqY9tqgG0YNlQ1IgCy1CIh/0JGMAZY/CFopZQ=
 			</data>
 		</dict>
 		<key>Headers/JiHuoNiaoSDKManagerHZ.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZHUQ8Gvk6QJdNMHpoGEo2EY6PA4=
+			uYryzU4LvlR9obSwRaigi2HG3uU=
 			</data>
 			<key>hash2</key>
 			<data>
-			PLlyKP4xSROKYaM2poNxfDUSZKsj2isbJ0igZMD0d+E=
+			QVrz4Cv3kaddGCYPxpz25BqKnta8XNkKFTjN0chxkfA=
 			</data>
 		</dict>
 		<key>Headers/JiHuoNiaoServerBiddingResultModel.h</key>
