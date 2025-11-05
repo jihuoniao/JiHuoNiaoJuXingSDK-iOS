@@ -82,6 +82,7 @@ s.weak_frameworks = [
   s.dependency 'KSAdSDK'
   s.dependency 'BeiZiSDK-iOS/BeiZiSDK-iOS'
   s.dependency 'JADYun'
+  s.dependency 'UBiXMerakSDK'
 
 
 
