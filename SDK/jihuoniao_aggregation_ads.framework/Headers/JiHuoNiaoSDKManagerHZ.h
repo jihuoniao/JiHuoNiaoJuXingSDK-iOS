@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)startWithAppid:(NSString *)appID AppKey:(NSString *)appkey isGetLocation:(BOOL)isLocation;
 
 /**
- 1.0.6 -11.06
+ 1.0.6 -11.09-23:00
  //百度10.0205--->10.022
  SDK版本号
 */
